@@ -1,0 +1,19 @@
+{
+  "url": "https://graduate.northeastern.edu/resources/area-of-study/stem/",
+  "unique_key": "https://graduate.northeastern.edu/resources/area-of-study/stem",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "FHJ8QPkBuqpGJZW",
+  "json_": "{\n  \"url\": \"https://graduate.northeastern.edu/resources/area-of-study/stem/\",\n  \"unique_key\": \"https://graduate.northeastern.edu/resources/area-of-study/stem\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"FHJ8QPkBuqpGJZW\",\n  \"order_no\": \"1731746819225.864887\"\n}",
+  "order_no": "1731746819225.864887"
+}

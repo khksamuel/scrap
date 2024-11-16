@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/degrees/arts-and-humanities/programs/foreign-credential-bridge-program/",
+  "unique_key": "https://www.nu.edu/degrees/arts-and-humanities/programs/foreign-credential-bridge-program",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "V0aVAO0Qo2yPtaU",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/degrees/arts-and-humanities/programs/foreign-credential-bridge-program/\",\n  \"unique_key\": \"https://www.nu.edu/degrees/arts-and-humanities/programs/foreign-credential-bridge-program\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"V0aVAO0Qo2yPtaU\",\n  \"order_no\": \"1731746805905.036926\"\n}",
+  "order_no": "1731746805905.036926"
+}

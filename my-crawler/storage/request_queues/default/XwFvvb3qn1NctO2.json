@@ -1,0 +1,19 @@
+{
+  "url": "https://study.uq.edu.au/information-resources/teachers-guidance-counsellors/request-campus-tour",
+  "unique_key": "https://study.uq.edu.au/information-resources/teachers-guidance-counsellors/request-campus-tour",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "XwFvvb3qn1NctO2",
+  "json_": "{\n  \"url\": \"https://study.uq.edu.au/information-resources/teachers-guidance-counsellors/request-campus-tour\",\n  \"unique_key\": \"https://study.uq.edu.au/information-resources/teachers-guidance-counsellors/request-campus-tour\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"XwFvvb3qn1NctO2\",\n  \"order_no\": \"1731746802439.294100\"\n}",
+  "order_no": "1731746802439.294100"
+}

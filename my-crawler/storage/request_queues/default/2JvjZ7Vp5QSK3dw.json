@@ -1,0 +1,19 @@
+{
+  "url": "https://au.jooble.org/jobs-architecture-of-graduate-revit-documenter/Sydney-CBD",
+  "unique_key": "https://au.jooble.org/jobs-architecture-of-graduate-revit-documenter/sydney-cbd",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "2JvjZ7Vp5QSK3dw",
+  "json_": "{\n  \"url\": \"https://au.jooble.org/jobs-architecture-of-graduate-revit-documenter/Sydney-CBD\",\n  \"unique_key\": \"https://au.jooble.org/jobs-architecture-of-graduate-revit-documenter/sydney-cbd\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"2JvjZ7Vp5QSK3dw\",\n  \"order_no\": \"1731746793968.185902\"\n}",
+  "order_no": "1731746793968.185902"
+}

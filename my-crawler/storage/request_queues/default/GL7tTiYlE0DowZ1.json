@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/degrees/management-and-marketing/programs/post-baccalaureate-certificate-in-business/",
+  "unique_key": "https://www.nu.edu/degrees/management-and-marketing/programs/post-baccalaureate-certificate-in-business",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "GL7tTiYlE0DowZ1",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/degrees/management-and-marketing/programs/post-baccalaureate-certificate-in-business/\",\n  \"unique_key\": \"https://www.nu.edu/degrees/management-and-marketing/programs/post-baccalaureate-certificate-in-business\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"GL7tTiYlE0DowZ1\",\n  \"order_no\": \"1731746805341.953993\"\n}",
+  "order_no": "1731746805341.953993"
+}

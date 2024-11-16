@@ -1,0 +1,19 @@
+{
+  "url": "https://au.jora.com/Computer-Science-Graduate-jobs-in-Australia",
+  "unique_key": "https://au.jora.com/computer-science-graduate-jobs-in-australia",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://au.jora.com/Computer-Science-Graduate-jobs-in-Australia",
+  "handled_at": "2024-11-16 08:46:16.740733+00:00",
+  "id": "umuDr67B6vKsWru",
+  "json_": "{\n  \"url\": \"https://au.jora.com/Computer-Science-Graduate-jobs-in-Australia\",\n  \"unique_key\": \"https://au.jora.com/computer-science-graduate-jobs-in-australia\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://au.jora.com/Computer-Science-Graduate-jobs-in-Australia\",\n  \"handled_at\": \"2024-11-16 08:46:16.740733+00:00\",\n  \"id\": \"umuDr67B6vKsWru\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

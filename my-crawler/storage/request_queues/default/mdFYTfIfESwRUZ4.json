@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/exam/ielts/tips-and-tricks-to-crack-ielts-in-first-attempt",
+  "unique_key": "https://www.upgradabroad.com/exam/ielts/tips-and-tricks-to-crack-ielts-in-first-attempt",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "mdFYTfIfESwRUZ4",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/exam/ielts/tips-and-tricks-to-crack-ielts-in-first-attempt\",\n  \"unique_key\": \"https://www.upgradabroad.com/exam/ielts/tips-and-tricks-to-crack-ielts-in-first-attempt\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"mdFYTfIfESwRUZ4\",\n  \"order_no\": \"1731746820369.121075\"\n}",
+  "order_no": "1731746820369.121075"
+}

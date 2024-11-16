@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/military-and-Veterans/military-spouses",
+  "unique_key": "https://www.nu.edu/military-and-veterans/military-spouses",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "416j18ogbO8xaw3",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/military-and-Veterans/military-spouses\",\n  \"unique_key\": \"https://www.nu.edu/military-and-veterans/military-spouses\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"416j18ogbO8xaw3\",\n  \"order_no\": \"1731746806374.928951\"\n}",
+  "order_no": "1731746806374.928951"
+}

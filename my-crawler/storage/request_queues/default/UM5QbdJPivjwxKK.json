@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/job-in-finland",
+  "unique_key": "https://www.upgradabroad.com/articles/job-in-finland",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "UM5QbdJPivjwxKK",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/job-in-finland\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles/job-in-finland\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"UM5QbdJPivjwxKK\",\n  \"order_no\": \"1731746820272.653103\"\n}",
+  "order_no": "1731746820272.653103"
+}

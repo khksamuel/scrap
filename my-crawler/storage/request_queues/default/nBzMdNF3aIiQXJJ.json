@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Overview/Working-at-University-of-New-South-Wales-EI_IE223565.11,40.htm",
+  "unique_key": "https://www.glassdoor.com.au/overview/working-at-university-of-new-south-wales-ei_ie223565.11,40.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "nBzMdNF3aIiQXJJ",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Overview/Working-at-University-of-New-South-Wales-EI_IE223565.11,40.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/overview/working-at-university-of-new-south-wales-ei_ie223565.11,40.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"nBzMdNF3aIiQXJJ\",\n  \"order_no\": \"1731746790398.216963\"\n}",
+  "order_no": "1731746790398.216963"
+}

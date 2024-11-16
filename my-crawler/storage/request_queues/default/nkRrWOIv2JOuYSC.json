@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/canada/masters/law",
+  "unique_key": "https://www.upgradabroad.com/canada/masters/law",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "nkRrWOIv2JOuYSC",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/canada/masters/law\",\n  \"unique_key\": \"https://www.upgradabroad.com/canada/masters/law\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"nkRrWOIv2JOuYSC\",\n  \"order_no\": \"1731746819130.464077\"\n}",
+  "order_no": "1731746819130.464077"
+}

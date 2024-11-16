@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Overview/Working-at-Audinate-Pty-Ltd-EI_IE945540.11,27.htm",
+  "unique_key": "https://www.glassdoor.com.au/overview/working-at-audinate-pty-ltd-ei_ie945540.11,27.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "PmNgcLdi6JgHST4",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Overview/Working-at-Audinate-Pty-Ltd-EI_IE945540.11,27.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/overview/working-at-audinate-pty-ltd-ei_ie945540.11,27.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"PmNgcLdi6JgHST4\",\n  \"order_no\": \"1731746796061.103106\"\n}",
+  "order_no": "1731746796061.103106"
+}

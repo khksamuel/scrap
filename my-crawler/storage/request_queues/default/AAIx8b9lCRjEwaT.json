@@ -1,0 +1,19 @@
+{
+  "url": "https://www.huzzle.app/apply",
+  "unique_key": "https://www.huzzle.app/apply",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "AAIx8b9lCRjEwaT",
+  "json_": "{\n  \"url\": \"https://www.huzzle.app/apply\",\n  \"unique_key\": \"https://www.huzzle.app/apply\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"AAIx8b9lCRjEwaT\",\n  \"order_no\": \"1731746829315.424919\"\n}",
+  "order_no": "1731746829315.424919"
+}

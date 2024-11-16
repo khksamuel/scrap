@@ -1,0 +1,19 @@
+{
+  "url": "https://study.uq.edu.au/admissions/doctor-medicine/rural-regional-qld/get-ready-for-uq",
+  "unique_key": "https://study.uq.edu.au/admissions/doctor-medicine/rural-regional-qld/get-ready-for-uq",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "tYVY97WI4WfnJdC",
+  "json_": "{\n  \"url\": \"https://study.uq.edu.au/admissions/doctor-medicine/rural-regional-qld/get-ready-for-uq\",\n  \"unique_key\": \"https://study.uq.edu.au/admissions/doctor-medicine/rural-regional-qld/get-ready-for-uq\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"tYVY97WI4WfnJdC\",\n  \"order_no\": \"1731746798219.204903\"\n}",
+  "order_no": "1731746798219.204903"
+}

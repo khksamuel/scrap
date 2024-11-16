@@ -1,0 +1,19 @@
+{
+  "url": "https://graduate.northeastern.edu/resources/category/industry-advice/",
+  "unique_key": "https://graduate.northeastern.edu/resources/category/industry-advice",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "iO3niJTykjp6ggp",
+  "json_": "{\n  \"url\": \"https://graduate.northeastern.edu/resources/category/industry-advice/\",\n  \"unique_key\": \"https://graduate.northeastern.edu/resources/category/industry-advice\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"iO3niJTykjp6ggp\",\n  \"order_no\": \"1731746819047.415018\"\n}",
+  "order_no": "1731746819047.415018"
+}

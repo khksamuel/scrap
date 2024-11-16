@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/degrees/school-of-law/",
+  "unique_key": "https://www.nu.edu/degrees/school-of-law",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "HvMdzWV1ESbQofz",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/degrees/school-of-law/\",\n  \"unique_key\": \"https://www.nu.edu/degrees/school-of-law\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"HvMdzWV1ESbQofz\",\n  \"order_no\": \"1731746806064.867973\"\n}",
+  "order_no": "1731746806064.867973"
+}

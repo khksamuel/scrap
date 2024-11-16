@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/ua-accelerator-programs/ms-in-data-analytics-visualization-iiitb-yeshiva-university-usa",
+  "unique_key": "https://www.upgradabroad.com/ua-accelerator-programs/ms-in-data-analytics-visualization-iiitb-yeshiva-university-usa",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "pfh7v1wesGgnlaY",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/ua-accelerator-programs/ms-in-data-analytics-visualization-iiitb-yeshiva-university-usa\",\n  \"unique_key\": \"https://www.upgradabroad.com/ua-accelerator-programs/ms-in-data-analytics-visualization-iiitb-yeshiva-university-usa\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"pfh7v1wesGgnlaY\",\n  \"order_no\": \"1731746836964.277983\"\n}",
+  "order_no": "1731746836964.277983"
+}

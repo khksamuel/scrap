@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Jobs/Tibra-Global-Services-Pty-Ltd-Jobs-E197452.htm",
+  "unique_key": "https://www.glassdoor.com.au/jobs/tibra-global-services-pty-ltd-jobs-e197452.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "um1OO8VnmHITQJF",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Jobs/Tibra-Global-Services-Pty-Ltd-Jobs-E197452.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/jobs/tibra-global-services-pty-ltd-jobs-e197452.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"um1OO8VnmHITQJF\",\n  \"order_no\": \"1731746796777.546883\"\n}",
+  "order_no": "1731746796777.546883"
+}

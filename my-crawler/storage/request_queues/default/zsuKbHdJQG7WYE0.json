@@ -1,0 +1,19 @@
+{
+  "url": "https://www.ciit.edu.ph/jobs-for-computer-science-graduates/",
+  "unique_key": "https://www.ciit.edu.ph/jobs-for-computer-science-graduates",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.ciit.edu.ph/jobs-for-computer-science-graduates/",
+  "handled_at": "2024-11-16 08:47:00.011834+00:00",
+  "id": "zsuKbHdJQG7WYE0",
+  "json_": "{\n  \"url\": \"https://www.ciit.edu.ph/jobs-for-computer-science-graduates/\",\n  \"unique_key\": \"https://www.ciit.edu.ph/jobs-for-computer-science-graduates\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.ciit.edu.ph/jobs-for-computer-science-graduates/\",\n  \"handled_at\": \"2024-11-16 08:47:00.011834+00:00\",\n  \"id\": \"zsuKbHdJQG7WYE0\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

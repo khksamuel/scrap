@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/job-listing/clinic-administrator-psychology-university-of-new-south-wales-JV_IC2235932_KO0,31_KE32,61.htm?jl=1009513237938",
+  "unique_key": "https://www.glassdoor.com.au/job-listing/clinic-administrator-psychology-university-of-new-south-wales-jv_ic2235932_ko0,31_ke32,61.htm?jl=1009513237938",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "p5u8LvgfwzK1v2o",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/job-listing/clinic-administrator-psychology-university-of-new-south-wales-JV_IC2235932_KO0,31_KE32,61.htm?jl=1009513237938\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job-listing/clinic-administrator-psychology-university-of-new-south-wales-jv_ic2235932_ko0,31_ke32,61.htm?jl=1009513237938\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"p5u8LvgfwzK1v2o\",\n  \"order_no\": \"1731746789930.705070\"\n}",
+  "order_no": "1731746789930.705070"
+}

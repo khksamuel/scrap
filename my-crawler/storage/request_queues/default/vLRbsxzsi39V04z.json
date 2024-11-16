@@ -1,0 +1,19 @@
+{
+  "url": "https://graduate.northeastern.edu/resources/area-of-study/pharmaceutical-science/",
+  "unique_key": "https://graduate.northeastern.edu/resources/area-of-study/pharmaceutical-science",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "vLRbsxzsi39V04z",
+  "json_": "{\n  \"url\": \"https://graduate.northeastern.edu/resources/area-of-study/pharmaceutical-science/\",\n  \"unique_key\": \"https://graduate.northeastern.edu/resources/area-of-study/pharmaceutical-science\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"vLRbsxzsi39V04z\",\n  \"order_no\": \"1731746819205.874920\"\n}",
+  "order_no": "1731746819205.874920"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/why-study-in-australia/",
+  "unique_key": "https://www.upgradabroad.com/articles/why-study-in-australia",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "qB08cpPHaW7A7rq",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/why-study-in-australia/\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles/why-study-in-australia\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"qB08cpPHaW7A7rq\",\n  \"order_no\": \"1731746830315.717936\"\n}",
+  "order_no": "1731746830315.717936"
+}

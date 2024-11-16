@@ -1,0 +1,19 @@
+{
+  "url": "https://www.seek.com.au/job/80089713?type=standout&ref=search-standalone&origin=cardTitle#sol=a57a16383a8649caeb96b49b47abf008b5ee7b1c",
+  "unique_key": "https://www.seek.com.au/job/80089713?origin=cardtitle&ref=search-standalone&type=standout",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "TXKpdjVcapC2Oeo",
+  "json_": "{\n  \"url\": \"https://www.seek.com.au/job/80089713?type=standout&ref=search-standalone&origin=cardTitle#sol=a57a16383a8649caeb96b49b47abf008b5ee7b1c\",\n  \"unique_key\": \"https://www.seek.com.au/job/80089713?origin=cardtitle&ref=search-standalone&type=standout\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"TXKpdjVcapC2Oeo\",\n  \"order_no\": \"1731746854830.177069\"\n}",
+  "order_no": "1731746854830.177069"
+}

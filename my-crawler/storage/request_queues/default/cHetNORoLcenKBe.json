@@ -1,0 +1,19 @@
+{
+  "url": "https://www.seek.com.au/job/79692865?type=standout&ref=search-standalone&origin=jobCard#sol=6af5be5e0815b3ade93f7bebaa07c63fae0048d8",
+  "unique_key": "https://www.seek.com.au/job/79692865?origin=jobcard&ref=search-standalone&type=standout",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "cHetNORoLcenKBe",
+  "json_": "{\n  \"url\": \"https://www.seek.com.au/job/79692865?type=standout&ref=search-standalone&origin=jobCard#sol=6af5be5e0815b3ade93f7bebaa07c63fae0048d8\",\n  \"unique_key\": \"https://www.seek.com.au/job/79692865?origin=jobcard&ref=search-standalone&type=standout\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"cHetNORoLcenKBe\",\n  \"order_no\": \"1731746769490.559101\"\n}",
+  "order_no": "1731746769490.559101"
+}

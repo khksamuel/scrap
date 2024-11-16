@@ -1,0 +1,20 @@
+{
+  "url": "https://au.prosple.com/career-planning/what-can-i-do-with-my-it-and-computer-science-degree",
+  "unique_key": "https://au.prosple.com/career-planning/what-can-i-do-with-my-it-and-computer-science-degree",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://au.prosple.com/career-planning/what-can-i-do-with-my-it-and-computer-science-degree",
+  "handled_at": null,
+  "id": "Puq0AgSgr9gkx4P",
+  "json_": "{\n  \"url\": \"https://au.prosple.com/career-planning/what-can-i-do-with-my-it-and-computer-science-degree\",\n  \"unique_key\": \"https://au.prosple.com/career-planning/what-can-i-do-with-my-it-and-computer-science-degree\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"sessionRotationCount\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://au.prosple.com/career-planning/what-can-i-do-with-my-it-and-computer-science-degree\",\n  \"handled_at\": null,\n  \"id\": \"Puq0AgSgr9gkx4P\",\n  \"order_no\": \"1731746778191.215992\"\n}",
+  "order_no": "1731746778191.215992"
+}

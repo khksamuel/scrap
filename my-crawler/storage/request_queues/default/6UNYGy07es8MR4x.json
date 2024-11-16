@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/degrees/it-security/programs/doctor-of-philosophy-in-cybersecurity-phd-cy/",
+  "unique_key": "https://www.nu.edu/degrees/it-security/programs/doctor-of-philosophy-in-cybersecurity-phd-cy",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "6UNYGy07es8MR4x",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/degrees/it-security/programs/doctor-of-philosophy-in-cybersecurity-phd-cy/\",\n  \"unique_key\": \"https://www.nu.edu/degrees/it-security/programs/doctor-of-philosophy-in-cybersecurity-phd-cy\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"6UNYGy07es8MR4x\",\n  \"order_no\": \"1731746805828.896046\"\n}",
+  "order_no": "1731746805828.896046"
+}

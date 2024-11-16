@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/job-listing/graduate-backend-software-engineer-tiktok-live-foundation-sydney-2025-start-tiktok-JV_KO0,75_KE76,82.htm?jl=1009298684823",
+  "unique_key": "https://www.glassdoor.com.au/job-listing/graduate-backend-software-engineer-tiktok-live-foundation-sydney-2025-start-tiktok-jv_ko0,75_ke76,82.htm?jl=1009298684823",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "DGdccMW8OOLHIJj",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/job-listing/graduate-backend-software-engineer-tiktok-live-foundation-sydney-2025-start-tiktok-JV_KO0,75_KE76,82.htm?jl=1009298684823\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job-listing/graduate-backend-software-engineer-tiktok-live-foundation-sydney-2025-start-tiktok-jv_ko0,75_ke76,82.htm?jl=1009298684823\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"DGdccMW8OOLHIJj\",\n  \"order_no\": \"1731746795585.684061\"\n}",
+  "order_no": "1731746795585.684061"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://graduate.northeastern.edu/admissions-information/how-to-apply/applying-as-an-international-student/",
+  "unique_key": "https://graduate.northeastern.edu/admissions-information/how-to-apply/applying-as-an-international-student",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "J1eC5Ys0EidNpAX",
+  "json_": "{\n  \"url\": \"https://graduate.northeastern.edu/admissions-information/how-to-apply/applying-as-an-international-student/\",\n  \"unique_key\": \"https://graduate.northeastern.edu/admissions-information/how-to-apply/applying-as-an-international-student\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"J1eC5Ys0EidNpAX\",\n  \"order_no\": \"1731746819008.229017\"\n}",
+  "order_no": "1731746819008.229017"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://study.uq.edu.au/admissions/non-award-study/review-fees",
+  "unique_key": "https://study.uq.edu.au/admissions/non-award-study/review-fees",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "OGDtbp9FzNgx1pA",
+  "json_": "{\n  \"url\": \"https://study.uq.edu.au/admissions/non-award-study/review-fees\",\n  \"unique_key\": \"https://study.uq.edu.au/admissions/non-award-study/review-fees\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"OGDtbp9FzNgx1pA\",\n  \"order_no\": \"1731746798268.732071\"\n}",
+  "order_no": "1731746798268.732071"
+}

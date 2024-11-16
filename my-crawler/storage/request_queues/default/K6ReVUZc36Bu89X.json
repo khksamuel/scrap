@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Reviews/Kinatico-Reviews-E8949626.htm",
+  "unique_key": "https://www.glassdoor.com.au/reviews/kinatico-reviews-e8949626.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "K6ReVUZc36Bu89X",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Reviews/Kinatico-Reviews-E8949626.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/reviews/kinatico-reviews-e8949626.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"K6ReVUZc36Bu89X\",\n  \"order_no\": \"1731746788750.202894\"\n}",
+  "order_no": "1731746788750.202894"
+}

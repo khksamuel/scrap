@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/degrees/jfk-psychology/programs/doctor-of-clinical-psychology/",
+  "unique_key": "https://www.nu.edu/degrees/jfk-psychology/programs/doctor-of-clinical-psychology",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "wWHKWq4c8ZMPuf7",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/degrees/jfk-psychology/programs/doctor-of-clinical-psychology/\",\n  \"unique_key\": \"https://www.nu.edu/degrees/jfk-psychology/programs/doctor-of-clinical-psychology\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"wWHKWq4c8ZMPuf7\",\n  \"order_no\": \"1731746805643.337011\"\n}",
+  "order_no": "1731746805643.337011"
+}

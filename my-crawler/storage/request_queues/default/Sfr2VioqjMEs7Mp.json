@@ -1,0 +1,19 @@
+{
+  "url": "https://gmc-studies.com/bachelor-undergraduate-studies/",
+  "unique_key": "https://gmc-studies.com/bachelor-undergraduate-studies",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "Sfr2VioqjMEs7Mp",
+  "json_": "{\n  \"url\": \"https://gmc-studies.com/bachelor-undergraduate-studies/\",\n  \"unique_key\": \"https://gmc-studies.com/bachelor-undergraduate-studies\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"Sfr2VioqjMEs7Mp\",\n  \"order_no\": \"1731746816831.176996\"\n}",
+  "order_no": "1731746816831.176996"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/difference-between-sds-and-non-sds/",
+  "unique_key": "https://www.upgradabroad.com/articles/difference-between-sds-and-non-sds",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "whH0RN1ncrbaJoF",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/difference-between-sds-and-non-sds/\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles/difference-between-sds-and-non-sds\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"whH0RN1ncrbaJoF\",\n  \"order_no\": \"1731746836880.187988\"\n}",
+  "order_no": "1731746836880.187988"
+}

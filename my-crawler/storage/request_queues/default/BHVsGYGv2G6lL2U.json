@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/program-finder/?filter%5Barea-of-study%5D=teaching_and_education&filter%5Bdegree-type%5D=bachelors",
+  "unique_key": "https://www.nu.edu/program-finder?filter%5barea-of-study%5d=teaching_and_education&filter%5bdegree-type%5d=bachelors",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "BHVsGYGv2G6lL2U",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/program-finder/?filter%5Barea-of-study%5D=teaching_and_education&filter%5Bdegree-type%5D=bachelors\",\n  \"unique_key\": \"https://www.nu.edu/program-finder?filter%5barea-of-study%5d=teaching_and_education&filter%5bdegree-type%5d=bachelors\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"BHVsGYGv2G6lL2U\",\n  \"order_no\": \"1731746805082.658052\"\n}",
+  "order_no": "1731746805082.658052"
+}

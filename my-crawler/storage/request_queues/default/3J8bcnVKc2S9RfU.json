@@ -1,0 +1,19 @@
+{
+  "url": "https://au.jora.com/job/Production-Engineer-0e7684c196bcdb3ad5af9e17068ecc28?abstract_type=extended_llm&fsv=true&sl=Australia&sol_key=0e1674772817c26df2adc4d54fa22d36&sp=sserp_bottom&sponsored=true&sq=Computer+Science+Graduate&sr=3&tk=pLDkL3dCfAtwZObAxwE0-PC7msVGHtWontBGfT0lB&trigger_source=serp",
+  "unique_key": "https://au.jora.com/job/production-engineer-0e7684c196bcdb3ad5af9e17068ecc28?abstract_type=extended_llm&fsv=true&sl=australia&sol_key=0e1674772817c26df2adc4d54fa22d36&sp=sserp_bottom&sponsored=true&sq=computer+science+graduate&sr=3&tk=pldkl3dcfatwzobaxwe0-pc7msvghtwontbgft0lb&trigger_source=serp",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "3J8bcnVKc2S9RfU",
+  "json_": "{\n  \"url\": \"https://au.jora.com/job/Production-Engineer-0e7684c196bcdb3ad5af9e17068ecc28?abstract_type=extended_llm&fsv=true&sl=Australia&sol_key=0e1674772817c26df2adc4d54fa22d36&sp=sserp_bottom&sponsored=true&sq=Computer+Science+Graduate&sr=3&tk=pLDkL3dCfAtwZObAxwE0-PC7msVGHtWontBGfT0lB&trigger_source=serp\",\n  \"unique_key\": \"https://au.jora.com/job/production-engineer-0e7684c196bcdb3ad5af9e17068ecc28?abstract_type=extended_llm&fsv=true&sl=australia&sol_key=0e1674772817c26df2adc4d54fa22d36&sp=sserp_bottom&sponsored=true&sq=computer+science+graduate&sr=3&tk=pldkl3dcfatwzobaxwe0-pc7msvghtwontbgft0lb&trigger_source=serp\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"3J8bcnVKc2S9RfU\",\n  \"order_no\": \"1731746776376.521111\"\n}",
+  "order_no": "1731746776376.521111"
+}

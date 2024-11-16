@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/student-visa-for-usa/",
+  "unique_key": "https://www.upgradabroad.com/articles/student-visa-for-usa",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "pMXYvggqr8RnMD8",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/student-visa-for-usa/\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles/student-visa-for-usa\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"pMXYvggqr8RnMD8\",\n  \"order_no\": \"1731746818644.305944\"\n}",
+  "order_no": "1731746818644.305944"
+}

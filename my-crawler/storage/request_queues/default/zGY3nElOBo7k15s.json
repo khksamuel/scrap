@@ -1,0 +1,19 @@
+{
+  "url": "https://au.jooble.org/desc/-5026145203937609231?ckey=computer+science+graduate&rgn=16353&pos=12&elckey=7493700856322974368&pageType=20&p=1&sid=-786528667593801364&jobAge=362&relb=100&brelb=100&bscr=12358.658958793338&scr=12358.658958793338&searchTestGroup=1_2_1&iid=8528928703944326894",
+  "unique_key": "https://au.jooble.org/desc/-5026145203937609231?brelb=100&bscr=12358.658958793338&ckey=computer+science+graduate&elckey=7493700856322974368&iid=8528928703944326894&jobage=362&p=1&pagetype=20&pos=12&relb=100&rgn=16353&scr=12358.658958793338&searchtestgroup=1_2_1&sid=-786528667593801364",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "zGY3nElOBo7k15s",
+  "json_": "{\n  \"url\": \"https://au.jooble.org/desc/-5026145203937609231?ckey=computer+science+graduate&rgn=16353&pos=12&elckey=7493700856322974368&pageType=20&p=1&sid=-786528667593801364&jobAge=362&relb=100&brelb=100&bscr=12358.658958793338&scr=12358.658958793338&searchTestGroup=1_2_1&iid=8528928703944326894\",\n  \"unique_key\": \"https://au.jooble.org/desc/-5026145203937609231?brelb=100&bscr=12358.658958793338&ckey=computer+science+graduate&elckey=7493700856322974368&iid=8528928703944326894&jobage=362&p=1&pagetype=20&pos=12&relb=100&rgn=16353&scr=12358.658958793338&searchtestgroup=1_2_1&sid=-786528667593801364\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"zGY3nElOBo7k15s\",\n  \"order_no\": \"1731746792257.725000\"\n}",
+  "order_no": "1731746792257.725000"
+}

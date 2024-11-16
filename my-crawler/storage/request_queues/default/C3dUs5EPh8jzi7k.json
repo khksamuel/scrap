@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/blog/which-computer-science-career-is-right-for-me/",
+  "unique_key": "https://www.nu.edu/blog/which-computer-science-career-is-right-for-me",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.nu.edu/blog/which-computer-science-career-is-right-for-me/",
+  "handled_at": "2024-11-16 08:46:47.136093+00:00",
+  "id": "C3dUs5EPh8jzi7k",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/blog/which-computer-science-career-is-right-for-me/\",\n  \"unique_key\": \"https://www.nu.edu/blog/which-computer-science-career-is-right-for-me\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.nu.edu/blog/which-computer-science-career-is-right-for-me/\",\n  \"handled_at\": \"2024-11-16 08:46:47.136093+00:00\",\n  \"id\": \"C3dUs5EPh8jzi7k\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

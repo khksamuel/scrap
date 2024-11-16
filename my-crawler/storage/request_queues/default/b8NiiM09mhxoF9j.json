@@ -1,0 +1,19 @@
+{
+  "url": "https://au.jora.com/job/Software-Engineer-abcc00c60382dc7c0aa548fb13829384?abstract_type=extended_llm&fsv=false&sl=Australia&sol_key=70fab05c692539a0a59a41e6d8ae70af&sp=serp&sponsored=false&sq=Computer+Science+Graduate&sr=5&tk=pLDkL3dCfAtwZObAxwE0-PC7msVGHtWontBGfT0lB&trigger_source=serp",
+  "unique_key": "https://au.jora.com/job/software-engineer-abcc00c60382dc7c0aa548fb13829384?abstract_type=extended_llm&fsv=false&sl=australia&sol_key=70fab05c692539a0a59a41e6d8ae70af&sp=serp&sponsored=false&sq=computer+science+graduate&sr=5&tk=pldkl3dcfatwzobaxwe0-pc7msvghtwontbgft0lb&trigger_source=serp",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "b8NiiM09mhxoF9j",
+  "json_": "{\n  \"url\": \"https://au.jora.com/job/Software-Engineer-abcc00c60382dc7c0aa548fb13829384?abstract_type=extended_llm&fsv=false&sl=Australia&sol_key=70fab05c692539a0a59a41e6d8ae70af&sp=serp&sponsored=false&sq=Computer+Science+Graduate&sr=5&tk=pLDkL3dCfAtwZObAxwE0-PC7msVGHtWontBGfT0lB&trigger_source=serp\",\n  \"unique_key\": \"https://au.jora.com/job/software-engineer-abcc00c60382dc7c0aa548fb13829384?abstract_type=extended_llm&fsv=false&sl=australia&sol_key=70fab05c692539a0a59a41e6d8ae70af&sp=serp&sponsored=false&sq=computer+science+graduate&sr=5&tk=pldkl3dcfatwzobaxwe0-pc7msvghtwontbgft0lb&trigger_source=serp\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"b8NiiM09mhxoF9j\",\n  \"order_no\": \"1731746776281.543016\"\n}",
+  "order_no": "1731746776281.543016"
+}

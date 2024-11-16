@@ -1,0 +1,19 @@
+{
+  "url": "https://study.uq.edu.au/information-resources/teachers-guidance-counsellors",
+  "unique_key": "https://study.uq.edu.au/information-resources/teachers-guidance-counsellors",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "EEYkmV2iNEMzFjk",
+  "json_": "{\n  \"url\": \"https://study.uq.edu.au/information-resources/teachers-guidance-counsellors\",\n  \"unique_key\": \"https://study.uq.edu.au/information-resources/teachers-guidance-counsellors\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"EEYkmV2iNEMzFjk\",\n  \"order_no\": \"1731746802060.549974\"\n}",
+  "order_no": "1731746802060.549974"
+}

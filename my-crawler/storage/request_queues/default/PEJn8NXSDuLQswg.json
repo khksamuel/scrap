@@ -1,0 +1,19 @@
+{
+  "url": "https://au.prosple.com/sign-up?url=aHR0cHM6Ly9jYXJlZXJzLmZkbWdyb3VwLmNvbS9yZWdpc3RyYXRpb24uYXNweD91dG1fc291cmNlPWdyYWRhdXN0cmFsaWEmdXRtX21lZGl1bT1qb2JhZCZ1dG1fY2FtcGFpZ249Z3JhZF9zb2Z0ZW5nJnV0bV9jb250ZW50PWF1c18&opportunityId=291942&employerId=2123",
+  "unique_key": "https://au.prosple.com/sign-up?employerid=2123&opportunityid=291942&url=ahr0chm6ly9jyxjlzxjzlmzkbwdyb3vwlmnvbs9yzwdpc3ryyxrpb24uyxnwed91dg1fc291cmnlpwdyywrhdxn0cmfsawemdxrtx21lzgl1bt1qb2jhzcz1dg1fy2ftcgfpz249z3jhzf9zb2z0zw5njnv0bv9jb250zw50pwf1c18",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "PEJn8NXSDuLQswg",
+  "json_": "{\n  \"url\": \"https://au.prosple.com/sign-up?url=aHR0cHM6Ly9jYXJlZXJzLmZkbWdyb3VwLmNvbS9yZWdpc3RyYXRpb24uYXNweD91dG1fc291cmNlPWdyYWRhdXN0cmFsaWEmdXRtX21lZGl1bT1qb2JhZCZ1dG1fY2FtcGFpZ249Z3JhZF9zb2Z0ZW5nJnV0bV9jb250ZW50PWF1c18&opportunityId=291942&employerId=2123\",\n  \"unique_key\": \"https://au.prosple.com/sign-up?employerid=2123&opportunityid=291942&url=ahr0chm6ly9jyxjlzxjzlmzkbwdyb3vwlmnvbs9yzwdpc3ryyxrpb24uyxnwed91dg1fc291cmnlpwdyywrhdxn0cmfsawemdxrtx21lzgl1bt1qb2jhzcz1dg1fy2ftcgfpz249z3jhzf9zb2z0zw5njnv0bv9jb250zw50pwf1c18\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"PEJn8NXSDuLQswg\",\n  \"order_no\": \"1731746779473.412991\"\n}",
+  "order_no": "1731746779473.412991"
+}

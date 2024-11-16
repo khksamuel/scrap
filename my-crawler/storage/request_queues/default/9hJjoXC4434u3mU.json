@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/job-listing/graduate-software-implementation-consultant-manhattan-associates-JV_IC2235932_KO0,43_KE44,64.htm?jl=1009442433722",
+  "unique_key": "https://www.glassdoor.com.au/job-listing/graduate-software-implementation-consultant-manhattan-associates-jv_ic2235932_ko0,43_ke44,64.htm?jl=1009442433722",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "9hJjoXC4434u3mU",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/job-listing/graduate-software-implementation-consultant-manhattan-associates-JV_IC2235932_KO0,43_KE44,64.htm?jl=1009442433722\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job-listing/graduate-software-implementation-consultant-manhattan-associates-jv_ic2235932_ko0,43_ke44,64.htm?jl=1009442433722\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"9hJjoXC4434u3mU\",\n  \"order_no\": \"1731746794240.715981\"\n}",
+  "order_no": "1731746794240.715981"
+}

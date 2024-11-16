@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/exam/usmle/exam-fees",
+  "unique_key": "https://www.upgradabroad.com/exam/usmle/exam-fees",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "zREqLhA5sPfIk6l",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/exam/usmle/exam-fees\",\n  \"unique_key\": \"https://www.upgradabroad.com/exam/usmle/exam-fees\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"zREqLhA5sPfIk6l\",\n  \"order_no\": \"1731746821927.301884\"\n}",
+  "order_no": "1731746821927.301884"
+}

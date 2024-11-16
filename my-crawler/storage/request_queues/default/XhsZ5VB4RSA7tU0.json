@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Job/sydney-computer-science-graduate-jobs-SRCH_IL.0,6_IC2235932_KO7,32.htm",
+  "unique_key": "https://www.glassdoor.com.au/job/sydney-computer-science-graduate-jobs-srch_il.0,6_ic2235932_ko7,32.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.glassdoor.com.au/Job/sydney-computer-science-graduate-jobs-SRCH_IL.0,6_IC2235932_KO7,32.htm",
+  "handled_at": "2024-11-16 08:46:38.484044+00:00",
+  "id": "XhsZ5VB4RSA7tU0",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Job/sydney-computer-science-graduate-jobs-SRCH_IL.0,6_IC2235932_KO7,32.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job/sydney-computer-science-graduate-jobs-srch_il.0,6_ic2235932_ko7,32.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.glassdoor.com.au/Job/sydney-computer-science-graduate-jobs-SRCH_IL.0,6_IC2235932_KO7,32.htm\",\n  \"handled_at\": \"2024-11-16 08:46:38.484044+00:00\",\n  \"id\": \"XhsZ5VB4RSA7tU0\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

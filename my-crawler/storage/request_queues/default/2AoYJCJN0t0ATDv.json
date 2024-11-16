@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Job/sydney-cloud-engineer-jobs-SRCH_IL.0,6_IC2235932_KO7,21.htm",
+  "unique_key": "https://www.glassdoor.com.au/job/sydney-cloud-engineer-jobs-srch_il.0,6_ic2235932_ko7,21.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "2AoYJCJN0t0ATDv",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Job/sydney-cloud-engineer-jobs-SRCH_IL.0,6_IC2235932_KO7,21.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job/sydney-cloud-engineer-jobs-srch_il.0,6_ic2235932_ko7,21.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"2AoYJCJN0t0ATDv\",\n  \"order_no\": \"1731746792380.940914\"\n}",
+  "order_no": "1731746792380.940914"
+}

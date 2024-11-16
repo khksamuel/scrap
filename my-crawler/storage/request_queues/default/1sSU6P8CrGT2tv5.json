@@ -1,0 +1,19 @@
+{
+  "url": "https://gmc-studies.com/study-in-the-sweden/",
+  "unique_key": "https://gmc-studies.com/study-in-the-sweden",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "1sSU6P8CrGT2tv5",
+  "json_": "{\n  \"url\": \"https://gmc-studies.com/study-in-the-sweden/\",\n  \"unique_key\": \"https://gmc-studies.com/study-in-the-sweden\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"1sSU6P8CrGT2tv5\",\n  \"order_no\": \"1731746817563.281059\"\n}",
+  "order_no": "1731746817563.281059"
+}

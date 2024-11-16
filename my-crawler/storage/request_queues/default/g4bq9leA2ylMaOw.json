@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/reasons-to-study-at-james-cook-university/",
+  "unique_key": "https://www.upgradabroad.com/articles/reasons-to-study-at-james-cook-university",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "g4bq9leA2ylMaOw",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/reasons-to-study-at-james-cook-university/\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles/reasons-to-study-at-james-cook-university\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"g4bq9leA2ylMaOw\",\n  \"order_no\": \"1731746830555.527925\"\n}",
+  "order_no": "1731746830555.527925"
+}

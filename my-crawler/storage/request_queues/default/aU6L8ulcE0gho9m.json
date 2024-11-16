@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/france",
+  "unique_key": "https://www.upgradabroad.com/france",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "aU6L8ulcE0gho9m",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/france\",\n  \"unique_key\": \"https://www.upgradabroad.com/france\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"aU6L8ulcE0gho9m\",\n  \"order_no\": \"1731746820266.644001\"\n}",
+  "order_no": "1731746820266.644001"
+}

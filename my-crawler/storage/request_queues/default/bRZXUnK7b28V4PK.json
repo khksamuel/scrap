@@ -1,0 +1,19 @@
+{
+  "url": "https://www.computerscience.org/bootcamps/",
+  "unique_key": "https://www.computerscience.org/bootcamps",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "bRZXUnK7b28V4PK",
+  "json_": "{\n  \"url\": \"https://www.computerscience.org/bootcamps/\",\n  \"unique_key\": \"https://www.computerscience.org/bootcamps\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"bRZXUnK7b28V4PK\",\n  \"order_no\": \"1731746830398.082972\"\n}",
+  "order_no": "1731746830398.082972"
+}

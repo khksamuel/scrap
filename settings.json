@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:PATH};%APPDATA%\\Python\\Scripts;c:\\Users\\Samuel\\.local\\bin\\poetry.exe"
+    }
+} 

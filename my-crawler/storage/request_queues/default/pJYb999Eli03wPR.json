@@ -1,0 +1,19 @@
+{
+  "url": "https://graduate.northeastern.edu/resources/top-paying-computer-science-jobs/",
+  "unique_key": "https://graduate.northeastern.edu/resources/top-paying-computer-science-jobs",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://graduate.northeastern.edu/resources/top-paying-computer-science-jobs/",
+  "handled_at": "2024-11-16 08:46:59.235281+00:00",
+  "id": "pJYb999Eli03wPR",
+  "json_": "{\n  \"url\": \"https://graduate.northeastern.edu/resources/top-paying-computer-science-jobs/\",\n  \"unique_key\": \"https://graduate.northeastern.edu/resources/top-paying-computer-science-jobs\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://graduate.northeastern.edu/resources/top-paying-computer-science-jobs/\",\n  \"handled_at\": \"2024-11-16 08:46:59.235281+00:00\",\n  \"id\": \"pJYb999Eli03wPR\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

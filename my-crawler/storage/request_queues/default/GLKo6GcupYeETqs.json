@@ -1,0 +1,20 @@
+{
+  "url": "https://au.linkedin.com/jobs/computer-science-jobs",
+  "unique_key": "https://au.linkedin.com/jobs/computer-science-jobs",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://au.linkedin.com/jobs/computer-science-jobs",
+  "handled_at": null,
+  "id": "GLKo6GcupYeETqs",
+  "json_": "{\n  \"url\": \"https://au.linkedin.com/jobs/computer-science-jobs\",\n  \"unique_key\": \"https://au.linkedin.com/jobs/computer-science-jobs\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"sessionRotationCount\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://au.linkedin.com/jobs/computer-science-jobs\",\n  \"handled_at\": null,\n  \"id\": \"GLKo6GcupYeETqs\",\n  \"order_no\": \"1731746769391.514063\"\n}",
+  "order_no": "1731746769391.514063"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://online.njit.edu/blog-posts/10-careers-you-can-do-masters-degree-computer-science",
+  "unique_key": "https://online.njit.edu/blog-posts/10-careers-you-can-do-masters-degree-computer-science",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://online.njit.edu/blog-posts/10-careers-you-can-do-masters-degree-computer-science",
+  "handled_at": null,
+  "id": "aO0RUzCFAdssU3m",
+  "json_": "{\n  \"url\": \"https://online.njit.edu/blog-posts/10-careers-you-can-do-masters-degree-computer-science\",\n  \"unique_key\": \"https://online.njit.edu/blog-posts/10-careers-you-can-do-masters-degree-computer-science\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 5\n    }\n  },\n  \"retry_count\": 1,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://online.njit.edu/blog-posts/10-careers-you-can-do-masters-degree-computer-science\",\n  \"handled_at\": null,\n  \"id\": \"aO0RUzCFAdssU3m\",\n  \"order_no\": \"1731746826049.082994\"\n}",
+  "order_no": "1731746826049.082994"
+}

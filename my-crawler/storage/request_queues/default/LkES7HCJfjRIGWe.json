@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/catalog",
+  "unique_key": "https://www.nu.edu/catalog",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "LkES7HCJfjRIGWe",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/catalog\",\n  \"unique_key\": \"https://www.nu.edu/catalog\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"LkES7HCJfjRIGWe\",\n  \"order_no\": \"1731746806239.717007\"\n}",
+  "order_no": "1731746806239.717007"
+}

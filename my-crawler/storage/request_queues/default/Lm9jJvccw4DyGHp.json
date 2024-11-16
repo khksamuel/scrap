@@ -1,0 +1,19 @@
+{
+  "url": "https://www.seek.com.au/computer-science-graduate-jobs?classification=6123%2C1211",
+  "unique_key": "https://www.seek.com.au/computer-science-graduate-jobs?classification=6123%2c1211",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "Lm9jJvccw4DyGHp",
+  "json_": "{\n  \"url\": \"https://www.seek.com.au/computer-science-graduate-jobs?classification=6123%2C1211\",\n  \"unique_key\": \"https://www.seek.com.au/computer-science-graduate-jobs?classification=6123%2c1211\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"Lm9jJvccw4DyGHp\",\n  \"order_no\": \"1731746872572.717905\"\n}",
+  "order_no": "1731746872572.717905"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Job/australia-entry-level-software-engineer-jobs-SRCH_IL.0,9_KO10,39.htm",
+  "unique_key": "https://www.glassdoor.com.au/job/australia-entry-level-software-engineer-jobs-srch_il.0,9_ko10,39.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "fxF7mi60OGw42f0",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Job/australia-entry-level-software-engineer-jobs-SRCH_IL.0,9_KO10,39.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job/australia-entry-level-software-engineer-jobs-srch_il.0,9_ko10,39.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"fxF7mi60OGw42f0\",\n  \"order_no\": \"1731746792276.057005\"\n}",
+  "order_no": "1731746792276.057005"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/masters-in-finance-australia/",
+  "unique_key": "https://www.upgradabroad.com/articles/masters-in-finance-australia",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "wy79u5lvw5pveSb",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/masters-in-finance-australia/\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles/masters-in-finance-australia\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"wy79u5lvw5pveSb\",\n  \"order_no\": \"1731746830703.111887\"\n}",
+  "order_no": "1731746830703.111887"
+}

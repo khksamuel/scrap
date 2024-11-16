@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/exam/ielts/universities-in-canada-without-ielts",
+  "unique_key": "https://www.upgradabroad.com/exam/ielts/universities-in-canada-without-ielts",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "3jhe7zjumliz5qA",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/exam/ielts/universities-in-canada-without-ielts\",\n  \"unique_key\": \"https://www.upgradabroad.com/exam/ielts/universities-in-canada-without-ielts\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"3jhe7zjumliz5qA\",\n  \"order_no\": \"1731746820408.293009\"\n}",
+  "order_no": "1731746820408.293009"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/career-opportunities-in-germany",
+  "unique_key": "https://www.upgradabroad.com/articles/career-opportunities-in-germany",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "jPBD8vAYe9OvMUq",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/career-opportunities-in-germany\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles/career-opportunities-in-germany\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"jPBD8vAYe9OvMUq\",\n  \"order_no\": \"1731746820118.382931\"\n}",
+  "order_no": "1731746820118.382931"
+}

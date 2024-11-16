@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/es-us/espanol/",
+  "unique_key": "https://www.nu.edu/es-us/espanol",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "MFFYsLx0Hb5jmev",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/es-us/espanol/\",\n  \"unique_key\": \"https://www.nu.edu/es-us/espanol\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"MFFYsLx0Hb5jmev\",\n  \"order_no\": \"1731746805035.579920\"\n}",
+  "order_no": "1731746805035.579920"
+}

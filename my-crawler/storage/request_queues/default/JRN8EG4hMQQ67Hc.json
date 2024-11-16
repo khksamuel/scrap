@@ -1,0 +1,19 @@
+{
+  "url": "https://www.seek.com.au/computer-science-graduate-jobs-in-mining-resources-energy",
+  "unique_key": "https://www.seek.com.au/computer-science-graduate-jobs-in-mining-resources-energy",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "JRN8EG4hMQQ67Hc",
+  "json_": "{\n  \"url\": \"https://www.seek.com.au/computer-science-graduate-jobs-in-mining-resources-energy\",\n  \"unique_key\": \"https://www.seek.com.au/computer-science-graduate-jobs-in-mining-resources-energy\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"JRN8EG4hMQQ67Hc\",\n  \"order_no\": \"1731746769125.431061\"\n}",
+  "order_no": "1731746769125.431061"
+}

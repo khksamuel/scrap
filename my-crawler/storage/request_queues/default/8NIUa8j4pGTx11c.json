@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/news/national-university-awarded-350000-grant-from-the-conrad-prebys-foundation-thriving-san-diego-workforce-initiative-to-address-the-k-12-teaching-shortage/",
+  "unique_key": "https://www.nu.edu/news/national-university-awarded-350000-grant-from-the-conrad-prebys-foundation-thriving-san-diego-workforce-initiative-to-address-the-k-12-teaching-shortage",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "8NIUa8j4pGTx11c",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/news/national-university-awarded-350000-grant-from-the-conrad-prebys-foundation-thriving-san-diego-workforce-initiative-to-address-the-k-12-teaching-shortage/\",\n  \"unique_key\": \"https://www.nu.edu/news/national-university-awarded-350000-grant-from-the-conrad-prebys-foundation-thriving-san-diego-workforce-initiative-to-address-the-k-12-teaching-shortage\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"8NIUa8j4pGTx11c\",\n  \"order_no\": \"1731746806943.833113\"\n}",
+  "order_no": "1731746806943.833113"
+}

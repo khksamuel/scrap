@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gmercyu.edu/academics/learn/computer-science-degree-career-info",
+  "unique_key": "https://www.gmercyu.edu/academics/learn/computer-science-degree-career-info",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.gmercyu.edu/academics/learn/computer-science-degree-career-info",
+  "handled_at": null,
+  "id": "FVRMZE3KHcD0FSS",
+  "json_": "{\n  \"url\": \"https://www.gmercyu.edu/academics/learn/computer-science-degree-career-info\",\n  \"unique_key\": \"https://www.gmercyu.edu/academics/learn/computer-science-degree-career-info\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 5\n    }\n  },\n  \"retry_count\": 1,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.gmercyu.edu/academics/learn/computer-science-degree-career-info\",\n  \"handled_at\": null,\n  \"id\": \"FVRMZE3KHcD0FSS\",\n  \"order_no\": \"1731746809802.647114\"\n}",
+  "order_no": "1731746809802.647114"
+}

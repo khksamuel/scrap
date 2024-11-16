@@ -1,0 +1,19 @@
+{
+  "url": "https://www.seek.com.au/job/79933051?type=promoted&ref=search-standalone&origin=cardTitle#sol=bb45da843ac7d33531ddd59c5041219e9d1beb33",
+  "unique_key": "https://www.seek.com.au/job/79933051?origin=cardtitle&ref=search-standalone&type=promoted",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "DdMSjE4kk7n9s4V",
+  "json_": "{\n  \"url\": \"https://www.seek.com.au/job/79933051?type=promoted&ref=search-standalone&origin=cardTitle#sol=bb45da843ac7d33531ddd59c5041219e9d1beb33\",\n  \"unique_key\": \"https://www.seek.com.au/job/79933051?origin=cardtitle&ref=search-standalone&type=promoted\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"DdMSjE4kk7n9s4V\",\n  \"order_no\": \"1731746854794.687033\"\n}",
+  "order_no": "1731746854794.687033"
+}

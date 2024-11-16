@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/exam/ielts/band-descriptors",
+  "unique_key": "https://www.upgradabroad.com/exam/ielts/band-descriptors",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "w9ubPWz1sPtCRDi",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/exam/ielts/band-descriptors\",\n  \"unique_key\": \"https://www.upgradabroad.com/exam/ielts/band-descriptors\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"w9ubPWz1sPtCRDi\",\n  \"order_no\": \"1731746820396.116018\"\n}",
+  "order_no": "1731746820396.116018"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/",
+  "unique_key": "https://www.upgradabroad.com/articles",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "2wxeFBGe5jTm2cB",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"2wxeFBGe5jTm2cB\",\n  \"order_no\": \"1731746824595.084906\"\n}",
+  "order_no": "1731746824595.084906"
+}

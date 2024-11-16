@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/job-listing/graduate-testing-engineer-sice-pty-ltd-JV_IC2264647_KO0,25_KE26,38.htm?jl=1009507442054",
+  "unique_key": "https://www.glassdoor.com.au/job-listing/graduate-testing-engineer-sice-pty-ltd-jv_ic2264647_ko0,25_ke26,38.htm?jl=1009507442054",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "1k6eP4iJSn0rzbF",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/job-listing/graduate-testing-engineer-sice-pty-ltd-JV_IC2264647_KO0,25_KE26,38.htm?jl=1009507442054\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job-listing/graduate-testing-engineer-sice-pty-ltd-jv_ic2264647_ko0,25_ke26,38.htm?jl=1009507442054\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"1k6eP4iJSn0rzbF\",\n  \"order_no\": \"1731746788848.597050\"\n}",
+  "order_no": "1731746788848.597050"
+}

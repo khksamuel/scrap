@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Salaries/bella-vista-technology-specialist-salary-SRCH_IL.0,11_IC4990222_KO12,33.htm",
+  "unique_key": "https://www.glassdoor.com.au/salaries/bella-vista-technology-specialist-salary-srch_il.0,11_ic4990222_ko12,33.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "epggf4Paj7q20yl",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Salaries/bella-vista-technology-specialist-salary-SRCH_IL.0,11_IC4990222_KO12,33.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/salaries/bella-vista-technology-specialist-salary-srch_il.0,11_ic4990222_ko12,33.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"epggf4Paj7q20yl\",\n  \"order_no\": \"1731746795974.128008\"\n}",
+  "order_no": "1731746795974.128008"
+}

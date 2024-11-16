@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/job-listing/junior-software-developer-kinatico-JV_IC2255727_KO0,25_KE26,34.htm?jl=1009529631053",
+  "unique_key": "https://www.glassdoor.com.au/job-listing/junior-software-developer-kinatico-jv_ic2255727_ko0,25_ke26,34.htm?jl=1009529631053",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "0CHXNeUHYgMqpIs",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/job-listing/junior-software-developer-kinatico-JV_IC2255727_KO0,25_KE26,34.htm?jl=1009529631053\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job-listing/junior-software-developer-kinatico-jv_ic2255727_ko0,25_ke26,34.htm?jl=1009529631053\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"0CHXNeUHYgMqpIs\",\n  \"order_no\": \"1731746788392.083883\"\n}",
+  "order_no": "1731746788392.083883"
+}

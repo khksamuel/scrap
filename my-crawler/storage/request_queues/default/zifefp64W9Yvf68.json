@@ -1,0 +1,19 @@
+{
+  "url": "https://study.uq.edu.au/study-options/study-abroad/study-options/psychology",
+  "unique_key": "https://study.uq.edu.au/study-options/study-abroad/study-options/psychology",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "zifefp64W9Yvf68",
+  "json_": "{\n  \"url\": \"https://study.uq.edu.au/study-options/study-abroad/study-options/psychology\",\n  \"unique_key\": \"https://study.uq.edu.au/study-options/study-abroad/study-options/psychology\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"zifefp64W9Yvf68\",\n  \"order_no\": \"1731746795967.355013\"\n}",
+  "order_no": "1731746795967.355013"
+}

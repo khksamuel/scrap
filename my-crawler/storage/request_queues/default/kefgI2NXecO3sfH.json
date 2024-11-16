@@ -1,0 +1,19 @@
+{
+  "url": "https://au.prosple.com/search-jobs?locations=9692%2C9692%7C9695&defaults_applied=1&keywords=software+engineering&opportunity_types=1&from_seo=1&content=software-engineering-graduate-jobs-programs-australia",
+  "unique_key": "https://au.prosple.com/search-jobs?content=software-engineering-graduate-jobs-programs-australia&defaults_applied=1&from_seo=1&keywords=software+engineering&locations=9692%2c9692%7c9695&opportunity_types=1",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "kefgI2NXecO3sfH",
+  "json_": "{\n  \"url\": \"https://au.prosple.com/search-jobs?locations=9692%2C9692%7C9695&defaults_applied=1&keywords=software+engineering&opportunity_types=1&from_seo=1&content=software-engineering-graduate-jobs-programs-australia\",\n  \"unique_key\": \"https://au.prosple.com/search-jobs?content=software-engineering-graduate-jobs-programs-australia&defaults_applied=1&from_seo=1&keywords=software+engineering&locations=9692%2c9692%7c9695&opportunity_types=1\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"kefgI2NXecO3sfH\",\n  \"order_no\": \"1731746779395.235062\"\n}",
+  "order_no": "1731746779395.235062"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coursera.org/courses?query=data%20science&topic=Data%20Science",
+  "unique_key": "https://www.coursera.org/courses?query=data+science&topic=data+science",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "Eqs1jhBX8Vd8mec",
+  "json_": "{\n  \"url\": \"https://www.coursera.org/courses?query=data%20science&topic=Data%20Science\",\n  \"unique_key\": \"https://www.coursera.org/courses?query=data+science&topic=data+science\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"Eqs1jhBX8Vd8mec\",\n  \"order_no\": \"1731746830110.347033\"\n}",
+  "order_no": "1731746830110.347033"
+}

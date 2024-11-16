@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/job-listing/graduate-associate-solutions-architect-amazon-web-services-australia-pty-ltd-JV_IC2235932_KO0,38_KE39,76.htm?jl=1009522451463",
+  "unique_key": "https://www.glassdoor.com.au/job-listing/graduate-associate-solutions-architect-amazon-web-services-australia-pty-ltd-jv_ic2235932_ko0,38_ke39,76.htm?jl=1009522451463",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "zxvK1SZCQUEfYX2",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/job-listing/graduate-associate-solutions-architect-amazon-web-services-australia-pty-ltd-JV_IC2235932_KO0,38_KE39,76.htm?jl=1009522451463\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job-listing/graduate-associate-solutions-architect-amazon-web-services-australia-pty-ltd-jv_ic2235932_ko0,38_ke39,76.htm?jl=1009522451463\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"zxvK1SZCQUEfYX2\",\n  \"order_no\": \"1731746794333.224058\"\n}",
+  "order_no": "1731746794333.224058"
+}

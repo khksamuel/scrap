@@ -1,0 +1,19 @@
+{
+  "url": "https://joinhandshake.com/blog/students/top-10-jobs-for-computer-science-majors/",
+  "unique_key": "https://joinhandshake.com/blog/students/top-10-jobs-for-computer-science-majors",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://joinhandshake.com/blog/students/top-10-jobs-for-computer-science-majors/",
+  "handled_at": "2024-11-16 08:46:25.695462+00:00",
+  "id": "tN3mLVsMBWSah7v",
+  "json_": "{\n  \"url\": \"https://joinhandshake.com/blog/students/top-10-jobs-for-computer-science-majors/\",\n  \"unique_key\": \"https://joinhandshake.com/blog/students/top-10-jobs-for-computer-science-majors\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://joinhandshake.com/blog/students/top-10-jobs-for-computer-science-majors/\",\n  \"handled_at\": \"2024-11-16 08:46:25.695462+00:00\",\n  \"id\": \"tN3mLVsMBWSah7v\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

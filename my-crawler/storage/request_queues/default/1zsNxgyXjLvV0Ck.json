@@ -1,0 +1,19 @@
+{
+  "url": "https://au.jora.com/jobs-in-Hobart",
+  "unique_key": "https://au.jora.com/jobs-in-hobart",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "1zsNxgyXjLvV0Ck",
+  "json_": "{\n  \"url\": \"https://au.jora.com/jobs-in-Hobart\",\n  \"unique_key\": \"https://au.jora.com/jobs-in-hobart\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"1zsNxgyXjLvV0Ck\",\n  \"order_no\": \"1731746776699.995995\"\n}",
+  "order_no": "1731746776699.995995"
+}

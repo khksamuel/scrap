@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Jobs/Manhattan-Associates-Jobs-E7866.htm",
+  "unique_key": "https://www.glassdoor.com.au/jobs/manhattan-associates-jobs-e7866.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "1Gv5Rp1iaJo1GDt",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Jobs/Manhattan-Associates-Jobs-E7866.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/jobs/manhattan-associates-jobs-e7866.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"1Gv5Rp1iaJo1GDt\",\n  \"order_no\": \"1731746798207.694054\"\n}",
+  "order_no": "1731746798207.694054"
+}

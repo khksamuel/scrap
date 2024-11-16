@@ -1,0 +1,20 @@
+{
+  "url": "https://www.seek.com.au/computer-science-graduate-jobs-in-healthcare-medical",
+  "unique_key": "https://www.seek.com.au/computer-science-graduate-jobs-in-healthcare-medical",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.seek.com.au/computer-science-graduate-jobs-in-healthcare-medical",
+  "handled_at": "2024-11-16 08:47:48.530011+00:00",
+  "id": "LYC2xu24Q6S2n1K",
+  "json_": "{\n  \"url\": \"https://www.seek.com.au/computer-science-graduate-jobs-in-healthcare-medical\",\n  \"unique_key\": \"https://www.seek.com.au/computer-science-graduate-jobs-in-healthcare-medical\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.seek.com.au/computer-science-graduate-jobs-in-healthcare-medical\",\n  \"handled_at\": \"2024-11-16 08:47:48.530011+00:00\",\n  \"id\": \"LYC2xu24Q6S2n1K\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

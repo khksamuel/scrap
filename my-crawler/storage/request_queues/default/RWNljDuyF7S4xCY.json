@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/partner/jobListing.htm?pos=127&ao=1136043&s=58&guid=000001933426d914be7250f721366003&src=GD_JOB_AD&t=SR&vt=w&cs=1_a1d082f1&cb=1731746781783&jobListingId=1009104213225&jrtk=5-pdx1-0-1icq2dmbbj1ev800-2c553b35459a15f7",
+  "unique_key": "https://www.glassdoor.com.au/partner/joblisting.htm?ao=1136043&cb=1731746781783&cs=1_a1d082f1&guid=000001933426d914be7250f721366003&joblistingid=1009104213225&jrtk=5-pdx1-0-1icq2dmbbj1ev800-2c553b35459a15f7&pos=127&s=58&src=gd_job_ad&t=sr&vt=w",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "RWNljDuyF7S4xCY",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/partner/jobListing.htm?pos=127&ao=1136043&s=58&guid=000001933426d914be7250f721366003&src=GD_JOB_AD&t=SR&vt=w&cs=1_a1d082f1&cb=1731746781783&jobListingId=1009104213225&jrtk=5-pdx1-0-1icq2dmbbj1ev800-2c553b35459a15f7\",\n  \"unique_key\": \"https://www.glassdoor.com.au/partner/joblisting.htm?ao=1136043&cb=1731746781783&cs=1_a1d082f1&guid=000001933426d914be7250f721366003&joblistingid=1009104213225&jrtk=5-pdx1-0-1icq2dmbbj1ev800-2c553b35459a15f7&pos=127&s=58&src=gd_job_ad&t=sr&vt=w\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"RWNljDuyF7S4xCY\",\n  \"order_no\": \"1731746796076.684952\"\n}",
+  "order_no": "1731746796076.684952"
+}

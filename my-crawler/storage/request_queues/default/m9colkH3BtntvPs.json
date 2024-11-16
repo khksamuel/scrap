@@ -1,0 +1,19 @@
+{
+  "url": "https://graduate.northeastern.edu/tour-campuses/toronto/",
+  "unique_key": "https://graduate.northeastern.edu/tour-campuses/toronto",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "m9colkH3BtntvPs",
+  "json_": "{\n  \"url\": \"https://graduate.northeastern.edu/tour-campuses/toronto/\",\n  \"unique_key\": \"https://graduate.northeastern.edu/tour-campuses/toronto\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"m9colkH3BtntvPs\",\n  \"order_no\": \"1731746818939.848900\"\n}",
+  "order_no": "1731746818939.848900"
+}

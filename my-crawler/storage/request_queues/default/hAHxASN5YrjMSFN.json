@@ -1,0 +1,19 @@
+{
+  "url": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/aboriginal-torres-strait-islander",
+  "unique_key": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/aboriginal-torres-strait-islander",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "hAHxASN5YrjMSFN",
+  "json_": "{\n  \"url\": \"https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/aboriginal-torres-strait-islander\",\n  \"unique_key\": \"https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/aboriginal-torres-strait-islander\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"hAHxASN5YrjMSFN\",\n  \"order_no\": \"1731746795713.788986\"\n}",
+  "order_no": "1731746795713.788986"
+}

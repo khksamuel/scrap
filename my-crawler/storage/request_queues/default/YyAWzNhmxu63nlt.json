@@ -1,0 +1,19 @@
+{
+  "url": "https://au.linkedin.com/jobs/no-experience-computer-science-jobs",
+  "unique_key": "https://au.linkedin.com/jobs/no-experience-computer-science-jobs",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://au.linkedin.com/jobs/no-experience-computer-science-jobs?position=1&pageNum=0",
+  "handled_at": "2024-11-16 08:46:24.748544+00:00",
+  "id": "YyAWzNhmxu63nlt",
+  "json_": "{\n  \"url\": \"https://au.linkedin.com/jobs/no-experience-computer-science-jobs\",\n  \"unique_key\": \"https://au.linkedin.com/jobs/no-experience-computer-science-jobs\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://au.linkedin.com/jobs/no-experience-computer-science-jobs?position=1&pageNum=0\",\n  \"handled_at\": \"2024-11-16 08:46:24.748544+00:00\",\n  \"id\": \"YyAWzNhmxu63nlt\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

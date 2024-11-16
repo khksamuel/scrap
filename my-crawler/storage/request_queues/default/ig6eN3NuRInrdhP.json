@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coursera.org/degrees/master-of-computer-science-illinois/academics",
+  "unique_key": "https://www.coursera.org/degrees/master-of-computer-science-illinois/academics",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "ig6eN3NuRInrdhP",
+  "json_": "{\n  \"url\": \"https://www.coursera.org/degrees/master-of-computer-science-illinois/academics\",\n  \"unique_key\": \"https://www.coursera.org/degrees/master-of-computer-science-illinois/academics\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"ig6eN3NuRInrdhP\",\n  \"order_no\": \"1731746829558.546066\"\n}",
+  "order_no": "1731746829558.546066"
+}

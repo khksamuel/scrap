@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/job-listing/graduate-mobile-engineer-tiktok-live-foundation-sydney-2025-start-tiktok-pte-ltd-JV_IC2235932_KO0,65_KE66,80.htm?jl=1009517848653",
+  "unique_key": "https://www.glassdoor.com.au/job-listing/graduate-mobile-engineer-tiktok-live-foundation-sydney-2025-start-tiktok-pte-ltd-jv_ic2235932_ko0,65_ke66,80.htm?jl=1009517848653",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "8v6CETjymIb9G49",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/job-listing/graduate-mobile-engineer-tiktok-live-foundation-sydney-2025-start-tiktok-pte-ltd-JV_IC2235932_KO0,65_KE66,80.htm?jl=1009517848653\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job-listing/graduate-mobile-engineer-tiktok-live-foundation-sydney-2025-start-tiktok-pte-ltd-jv_ic2235932_ko0,65_ke66,80.htm?jl=1009517848653\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"8v6CETjymIb9G49\",\n  \"order_no\": \"1731746796104.145050\"\n}",
+  "order_no": "1731746796104.145050"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.seek.com.au/job/79725236?type=promoted&ref=search-standalone&origin=jobCard#sol=e66c47ab49ba954f665da187dc3799d0f862c6dd",
+  "unique_key": "https://www.seek.com.au/job/79725236?origin=jobcard&ref=search-standalone&type=promoted",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "15dkU7zH5R5rD06",
+  "json_": "{\n  \"url\": \"https://www.seek.com.au/job/79725236?type=promoted&ref=search-standalone&origin=jobCard#sol=e66c47ab49ba954f665da187dc3799d0f862c6dd\",\n  \"unique_key\": \"https://www.seek.com.au/job/79725236?origin=jobcard&ref=search-standalone&type=promoted\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"15dkU7zH5R5rD06\",\n  \"order_no\": \"1731746769272.603035\"\n}",
+  "order_no": "1731746769272.603035"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.upgradabroad.com/articles/one-year-ms-in-computer-science-in-usa/",
+  "unique_key": "https://www.upgradabroad.com/articles/one-year-ms-in-computer-science-in-usa",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "CM2DemqkhAcig4G",
+  "json_": "{\n  \"url\": \"https://www.upgradabroad.com/articles/one-year-ms-in-computer-science-in-usa/\",\n  \"unique_key\": \"https://www.upgradabroad.com/articles/one-year-ms-in-computer-science-in-usa\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"CM2DemqkhAcig4G\",\n  \"order_no\": \"1731746836902.267933\"\n}",
+  "order_no": "1731746836902.267933"
+}

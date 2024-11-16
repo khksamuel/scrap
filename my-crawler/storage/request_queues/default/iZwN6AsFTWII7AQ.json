@@ -1,0 +1,19 @@
+{
+  "url": "https://study.uq.edu.au/university-life/getting-prepared-to-come-to-australia/working-while-studying",
+  "unique_key": "https://study.uq.edu.au/university-life/getting-prepared-to-come-to-australia/working-while-studying",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "iZwN6AsFTWII7AQ",
+  "json_": "{\n  \"url\": \"https://study.uq.edu.au/university-life/getting-prepared-to-come-to-australia/working-while-studying\",\n  \"unique_key\": \"https://study.uq.edu.au/university-life/getting-prepared-to-come-to-australia/working-while-studying\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"iZwN6AsFTWII7AQ\",\n  \"order_no\": \"1731746799417.872906\"\n}",
+  "order_no": "1731746799417.872906"
+}

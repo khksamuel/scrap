@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/job-listing/lecturer-in-small-animal-clinical-studies-diagnostic-imaging-university-of-melbourne-JV_IC2247142_KO0,60_KE61,84.htm?jl=1009481152726",
+  "unique_key": "https://www.glassdoor.com.au/job-listing/lecturer-in-small-animal-clinical-studies-diagnostic-imaging-university-of-melbourne-jv_ic2247142_ko0,60_ke61,84.htm?jl=1009481152726",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "bziQqmmZEs3C1AO",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/job-listing/lecturer-in-small-animal-clinical-studies-diagnostic-imaging-university-of-melbourne-JV_IC2247142_KO0,60_KE61,84.htm?jl=1009481152726\",\n  \"unique_key\": \"https://www.glassdoor.com.au/job-listing/lecturer-in-small-animal-clinical-studies-diagnostic-imaging-university-of-melbourne-jv_ic2247142_ko0,60_ke61,84.htm?jl=1009481152726\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"bziQqmmZEs3C1AO\",\n  \"order_no\": \"1731746791574.651957\"\n}",
+  "order_no": "1731746791574.651957"
+}

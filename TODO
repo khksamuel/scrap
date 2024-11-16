@@ -1,0 +1,5 @@
+-GUI
+-Better filtering
+-Better extraction
+-Result export as CSV/JSON/Excel
+-Customizable extraction profiles (blacklist, whitelist, job type, etc.)

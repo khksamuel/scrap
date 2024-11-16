@@ -1,0 +1,19 @@
+{
+  "url": "https://au.jora.com/users/sign_in?return_to=%2Fpa%2Fapply%2F-460802eaef6b2a8107983e4258122e9c%3Ffrom_url%3Dhttps%253A%252F%252Fau.jora.com%252FComputer-Science-Graduate-jobs-in-Australia%26location%3DAustralia%26query%3DComputer%2BScience%2BGraduate%26search_id%3D905e4c7d-c0fc-4251-b485-e45d96caf257-5cc2f029bc4d3a6cdfc40ecbd0048374-pLDkL3dCfAtwZObAxwE0%26search_rank%3D1%26sol_key%3D2ed95f2e0d70f6966663b03c6804b9fc%26sp%3Dsserp_top%26tk%3DpLDkL3dCfAtwZObAxwE0-PC7msVGHtWontBGfT0lB",
+  "unique_key": "https://au.jora.com/users/sign_in?return_to=%2fpa%2fapply%2f-460802eaef6b2a8107983e4258122e9c%3ffrom_url%3dhttps%253a%252f%252fau.jora.com%252fcomputer-science-graduate-jobs-in-australia%26location%3daustralia%26query%3dcomputer%2bscience%2bgraduate%26search_id%3d905e4c7d-c0fc-4251-b485-e45d96caf257-5cc2f029bc4d3a6cdfc40ecbd0048374-pldkl3dcfatwzobaxwe0%26search_rank%3d1%26sol_key%3d2ed95f2e0d70f6966663b03c6804b9fc%26sp%3dsserp_top%26tk%3dpldkl3dcfatwzobaxwe0-pc7msvghtwontbgft0lb",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "8giQRwyvJMhS4dC",
+  "json_": "{\n  \"url\": \"https://au.jora.com/users/sign_in?return_to=%2Fpa%2Fapply%2F-460802eaef6b2a8107983e4258122e9c%3Ffrom_url%3Dhttps%253A%252F%252Fau.jora.com%252FComputer-Science-Graduate-jobs-in-Australia%26location%3DAustralia%26query%3DComputer%2BScience%2BGraduate%26search_id%3D905e4c7d-c0fc-4251-b485-e45d96caf257-5cc2f029bc4d3a6cdfc40ecbd0048374-pLDkL3dCfAtwZObAxwE0%26search_rank%3D1%26sol_key%3D2ed95f2e0d70f6966663b03c6804b9fc%26sp%3Dsserp_top%26tk%3DpLDkL3dCfAtwZObAxwE0-PC7msVGHtWontBGfT0lB\",\n  \"unique_key\": \"https://au.jora.com/users/sign_in?return_to=%2fpa%2fapply%2f-460802eaef6b2a8107983e4258122e9c%3ffrom_url%3dhttps%253a%252f%252fau.jora.com%252fcomputer-science-graduate-jobs-in-australia%26location%3daustralia%26query%3dcomputer%2bscience%2bgraduate%26search_id%3d905e4c7d-c0fc-4251-b485-e45d96caf257-5cc2f029bc4d3a6cdfc40ecbd0048374-pldkl3dcfatwzobaxwe0%26search_rank%3d1%26sol_key%3d2ed95f2e0d70f6966663b03c6804b9fc%26sp%3dsserp_top%26tk%3dpldkl3dcfatwzobaxwe0-pc7msvghtwontbgft0lb\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"8giQRwyvJMhS4dC\",\n  \"order_no\": \"1731746776535.312891\"\n}",
+  "order_no": "1731746776535.312891"
+}

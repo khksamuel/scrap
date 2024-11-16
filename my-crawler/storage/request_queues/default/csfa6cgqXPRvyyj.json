@@ -1,0 +1,19 @@
+{
+  "url": "https://www.glassdoor.com.au/Overview/Working-at-Amazon-Web-Services-Australia-Pty-Ltd-EI_IE6036.11,48.htm",
+  "unique_key": "https://www.glassdoor.com.au/overview/working-at-amazon-web-services-australia-pty-ltd-ei_ie6036.11,48.htm",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "csfa6cgqXPRvyyj",
+  "json_": "{\n  \"url\": \"https://www.glassdoor.com.au/Overview/Working-at-Amazon-Web-Services-Australia-Pty-Ltd-EI_IE6036.11,48.htm\",\n  \"unique_key\": \"https://www.glassdoor.com.au/overview/working-at-amazon-web-services-australia-pty-ltd-ei_ie6036.11,48.htm\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"csfa6cgqXPRvyyj\",\n  \"order_no\": \"1731746794706.756115\"\n}",
+  "order_no": "1731746794706.756115"
+}

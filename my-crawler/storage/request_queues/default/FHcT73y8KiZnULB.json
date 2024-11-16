@@ -1,0 +1,19 @@
+{
+  "url": "https://www.computerscience.org/resources/online-courses/",
+  "unique_key": "https://www.computerscience.org/resources/online-courses",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "FHcT73y8KiZnULB",
+  "json_": "{\n  \"url\": \"https://www.computerscience.org/resources/online-courses/\",\n  \"unique_key\": \"https://www.computerscience.org/resources/online-courses\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"FHcT73y8KiZnULB\",\n  \"order_no\": \"1731746830010.952950\"\n}",
+  "order_no": "1731746830010.952950"
+}

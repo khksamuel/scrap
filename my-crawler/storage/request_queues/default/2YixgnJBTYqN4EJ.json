@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/degrees/educational-leadership/programs/doctor-of-philosophy-in-education/",
+  "unique_key": "https://www.nu.edu/degrees/educational-leadership/programs/doctor-of-philosophy-in-education",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "2YixgnJBTYqN4EJ",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/degrees/educational-leadership/programs/doctor-of-philosophy-in-education/\",\n  \"unique_key\": \"https://www.nu.edu/degrees/educational-leadership/programs/doctor-of-philosophy-in-education\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"2YixgnJBTYqN4EJ\",\n  \"order_no\": \"1731746805135.555983\"\n}",
+  "order_no": "1731746805135.555983"
+}

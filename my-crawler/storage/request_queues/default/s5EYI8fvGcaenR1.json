@@ -1,0 +1,19 @@
+{
+  "url": "https://www.seek.com.au/job/80112259?type=standout&ref=search-standalone&origin=jobCard#sol=bd1b0af046317e7c1f91462a5afb969d3d34b9fb",
+  "unique_key": "https://www.seek.com.au/job/80112259?origin=jobcard&ref=search-standalone&type=standout",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "s5EYI8fvGcaenR1",
+  "json_": "{\n  \"url\": \"https://www.seek.com.au/job/80112259?type=standout&ref=search-standalone&origin=jobCard#sol=bd1b0af046317e7c1f91462a5afb969d3d34b9fb\",\n  \"unique_key\": \"https://www.seek.com.au/job/80112259?origin=jobcard&ref=search-standalone&type=standout\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"s5EYI8fvGcaenR1\",\n  \"order_no\": \"1731746872765.816927\"\n}",
+  "order_no": "1731746872765.816927"
+}

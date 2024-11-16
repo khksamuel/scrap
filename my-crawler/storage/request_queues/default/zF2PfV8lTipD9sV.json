@@ -1,0 +1,19 @@
+{
+  "url": "https://study.uq.edu.au/admissions/doctor-medicine/provisional-entry/how-to-apply",
+  "unique_key": "https://study.uq.edu.au/admissions/doctor-medicine/provisional-entry/how-to-apply",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "zF2PfV8lTipD9sV",
+  "json_": "{\n  \"url\": \"https://study.uq.edu.au/admissions/doctor-medicine/provisional-entry/how-to-apply\",\n  \"unique_key\": \"https://study.uq.edu.au/admissions/doctor-medicine/provisional-entry/how-to-apply\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"zF2PfV8lTipD9sV\",\n  \"order_no\": \"1731746796672.260046\"\n}",
+  "order_no": "1731746796672.260046"
+}

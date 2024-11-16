@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nu.edu/degrees/mathematics-and-natural-sciences/programs/bachelor-science-biology/",
+  "unique_key": "https://www.nu.edu/degrees/mathematics-and-natural-sciences/programs/bachelor-science-biology",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "exNPJvQyADE5g85",
+  "json_": "{\n  \"url\": \"https://www.nu.edu/degrees/mathematics-and-natural-sciences/programs/bachelor-science-biology/\",\n  \"unique_key\": \"https://www.nu.edu/degrees/mathematics-and-natural-sciences/programs/bachelor-science-biology\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"exNPJvQyADE5g85\",\n  \"order_no\": \"1731746806085.921049\"\n}",
+  "order_no": "1731746806085.921049"
+}
