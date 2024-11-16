@@ -3,11 +3,12 @@ from crawlee.router import Router
 from .smart_extractor import SmartExtractor
 from .url_filter import UrlFilter
 from .smart_extractor import ContentType
-
+import logging
 router = Router[PlaywrightCrawlingContext]()
 
 @router.default_handler
 async def request_handler(context: PlaywrightCrawlingContext) -> None:
+    logger = logging.getLogger(__name__)
     url = context.request.url
     content_type = detect_content_type(url, await context.page.content())
     

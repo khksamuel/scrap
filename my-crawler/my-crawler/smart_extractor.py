@@ -321,7 +321,7 @@ class SmartExtractor:
             return cleaned_data
             
         except Exception as e:
-            print(f"Error in extraction: {str(e)}")
+            logger.error(f"Error in extraction: {str(e)}")
             return {"error": str(e)}
 
     def _extract_title(self, soup: BeautifulSoup, html: str) -> str:
